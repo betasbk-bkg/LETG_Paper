@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Author information has been removed for double-blind peer review. The full citation will be restored upon acceptance."
+type: software
+title: "LETG: Reproduction materials for the Latency-Geometry Scaling study in Crowd-Sourced Continuous Control"
+authors:
+  - name: "[Author information removed for double-blind review]"
+version: "1.0.0"
+date-released: "2026-05-19"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "An Empirical Latency-Geometry Scaling Relation for Optimal Agent Speed in Crowd-Sourced Continuous Control"
+  authors:
+    - name: "[Author information removed for double-blind review]"
+  journal: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  year: 2026
+  status: "submitted"
