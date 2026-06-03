@@ -4,7 +4,7 @@ Simulation Code for:
 "Speed Over Strategy: Why Agent Velocity Dominates Aggregation Method
  in Crowd-Sourced Continuous Control"
 
-[Author information removed for double-blind review]
+BongKeun Song, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 Experiments:
   E1: Speed × Method ANOVA (circle, square trajectories)

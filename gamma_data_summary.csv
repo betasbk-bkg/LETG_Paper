@@ -1,0 +1,5 @@
+trajectory,tau_ms,v_star_mps,N_agents,MC_total,mean_gamma,SEM_mean_gamma,within_run_std_gamma,mean_rmse_m,class,class_label
+Circle,433,2.03,150,15,0.939585,0.000877,0.018707,0.245781,A,continuous_curvature
+Square,433,1.117,150,15,0.941682,0.000960,0.015811,0.053475,B,straight_corner_polygon
+Ellipse,433,1.606,150,15,0.935035,0.000740,0.023018,0.206925,A,continuous_curvature
+Suzuka,433,1.409,150,15,0.934058,0.001205,0.024325,0.243762,C,mixed_realworld
